@@ -13,3 +13,5 @@ Pad between two 100n capacitors is connected directly to the chassis of motor to
 Extra space (top/left) around motor is used for mounting micro-switches at desired position.
 
 Door in the action can be seen on YouTube https://youtu.be/0yKCrzkIeTo
+
+Signal pin is connected to perimeter sender.
