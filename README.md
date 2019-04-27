@@ -2,7 +2,7 @@
 
 This repository contains resources for my electric garage door for ArduMower. I created them because cats and other animals went to the garage and left the products of their digestive tract in it :)
 
-Used motor is UXCELL 30RPM 24V motor (https://www.ebay.com/itm/DC-24V-7000RPM-14RPM-8mmx14mm-Shaft-Electric-Power-Turbo-Worm-Geared-Motor-/232327516657). Schematic also consists from 24V relay and two microswitches.
+Used motor is UXCELL 30RPM 24V motor (https://www.ebay.com/itm/DC-24V-30RPM-8mmx15mm-Dual-D-Shape-Shaft-Electric-Power-Turbo-Worm-Geared-Motor/362278845277).
 
 ![alt](/eagle/door_sch.png?raw=true)
 
