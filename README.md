@@ -14,4 +14,4 @@ Extra space (top/left) around motor is used for mounting micro-switches at desir
 
 Door in the action can be seen on YouTube https://youtu.be/0yKCrzkIeTo
 
-Signal pin is connected to perimeter sender.
+Signal pin is connected to perimeter sender. When sender is ON (mower is mowing) door is open. If mower is in garage eq. charging and perimeter sender is OFF, door is closed. Signal is connected on pin D10 a firmware of perimeter sender slightly modified to control pin.
